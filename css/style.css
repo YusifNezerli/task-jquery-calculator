@@ -80,6 +80,9 @@ button:hover {
 }
 .morterze{
   grid-area: 3/4/6/5;
+  background-color: #f12614;
+  border-color: #d45a5a;
+ 
 }
 .calculator-keys {
   display: grid;
